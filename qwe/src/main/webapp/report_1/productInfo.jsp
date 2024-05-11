@@ -5,7 +5,7 @@
 <head>
 <link rel="stylesheet" 	href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 <title>상담 상세 정보</title>
-</head>
+</head> 
 <body>
 	<jsp:include page="menu.jsp" />
 	<div class="jumbotron">

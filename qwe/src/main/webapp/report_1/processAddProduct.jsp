@@ -2,7 +2,7 @@
 <%@ page import="ex8.Product"%>
 <jsp:useBean id="productDAO" class="ex8.ProductRepository" scope="application" />
 
-<%
+<% 
 	request.setCharacterEncoding("UTF-8");
 
 	String Thema = request.getParameter("Thema");

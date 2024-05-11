@@ -21,7 +21,7 @@
         <svg class="bi" width="30" height="24"><use xlink:href="#bootstrap"/></svg>
       </a>
       <span class="text-muted">&copy; 2021 Company, Inc</span>
-    </div>
+    </div> 
 
     <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
       <li class="ms-3"><a class="text-muted" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#twitter"/></svg></a></li>
